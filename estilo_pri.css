@@ -1,0 +1,39 @@
+body {
+    background-color:rgba(1, 1, 1, 0.904) ;
+}
+
+#cabecario {
+     color: aliceblue;
+     font-size: 40px;
+     text-align: center;
+}
+
+#cabecario h1{
+    font-size: 150px;
+}
+ 
+#m24 {
+    padding: 50px;
+    background-color: rgba(0, 0, 0, 0.293);
+}
+
+#barret50 {
+    padding: 50px;
+    background-color: rgba(32, 30, 30, 0.621);
+}
+
+#svu1 {
+    padding: 50px;
+    background-color: rgba(29, 28, 28, 0.205);
+}
+
+.text{
+    color: white;
+
+}
+
+footer p { 
+    text-align: center;
+    color: aliceblue;
+
+}
